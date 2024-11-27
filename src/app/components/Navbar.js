@@ -42,6 +42,11 @@ const Navbar = () => {
                 About Us
               </Link>
             </li>
+            <li className="nav-item">
+              <Link href={"/terms&conditions"} className="nav-link">
+                Terms & Conditions 
+              </Link>
+            </li>
             
           </ul>
           <form className="d-flex ms-auto"  onSubmit={handleSubmit}>

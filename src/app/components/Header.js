@@ -12,7 +12,7 @@ export default function Header() {
           <div style={{ height: "18px", borderLeft: "2px solid white" }}></div>
         </div>
 
-        {/* <small className="text-white fs-200" style={{lineHeight: "3rem"}}> | </small> */}
+      
         <HeaderItem title="Top Rated" param="fetchTopRated" />
       </div>
     </Suspense>

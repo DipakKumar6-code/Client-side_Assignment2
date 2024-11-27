@@ -51,7 +51,7 @@ export default function Contact() {
 
       <h2 className="text-center text-white">Contact Cineplex-Movies</h2>
       <p className="text-center text-white mb-4 p-2">
-        Please fill out the form below and we'll get back to you as soon as possible!
+        Please fill out the form below and we will ll get back to you as soon as possible!
       </p>
 
       <form onSubmit={handleSubmit} className='text-white'>
